@@ -1,14 +1,14 @@
 {
-  "name": "studynotion-backend",
+  "name": "cabinet-of-learning-backend",
   "version": "1.0.0",
-  "description": "studynotion-backend",
+  "description": "cabinet-of-learning-backend",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": [
-    "studynotion-backend"
+    "cabinet-of-learning-backend"
   ],
   "author": "Saikat Mukherjee",
   "license": "ISC",

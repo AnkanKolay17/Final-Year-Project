@@ -1,6 +1,6 @@
 {
-  "name": "Final_year-Frontend",
-  "description": "This is the client side of the StudyNotion App",
+  "name": "cabinet-of-learning-Frontend",
+  "description": "This is the client side of the Ed-Tech App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
